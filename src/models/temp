@@ -1,0 +1,32 @@
+Users 
+
+[
+    {
+        id: 1, 
+        name : xyz,
+        email: 'xyz@xyz.com',
+   }
+]
+
+Projects
+[
+    {
+        id: 1,
+        name: "Project Name",
+        createdAt: new Date(),
+        userId: 1
+    }
+]
+
+Tasks in each Project
+
+[
+    {
+        id: 1,
+        user_id:  title: 'Task Title',
+        projectId: 1,
+        status: incomplete, 
+        userId : 1
+    }
+]
+
